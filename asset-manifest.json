@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lokera666.github.io/csb-fi4irm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://lokera666.github.io/csb-fi4irm/static/js/main.3a1e1a68.chunk.js",
+    "main.js.map": "https://lokera666.github.io/csb-fi4irm/static/js/main.3a1e1a68.chunk.js.map",
+    "runtime-main.js": "https://lokera666.github.io/csb-fi4irm/static/js/runtime-main.c491e086.js",
+    "runtime-main.js.map": "https://lokera666.github.io/csb-fi4irm/static/js/runtime-main.c491e086.js.map",
+    "static/js/2.b75dd592.chunk.js": "https://lokera666.github.io/csb-fi4irm/static/js/2.b75dd592.chunk.js",
+    "static/js/2.b75dd592.chunk.js.map": "https://lokera666.github.io/csb-fi4irm/static/js/2.b75dd592.chunk.js.map",
+    "index.html": "https://lokera666.github.io/csb-fi4irm/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://lokera666.github.io/csb-fi4irm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b75dd592.chunk.js.LICENSE.txt": "https://lokera666.github.io/csb-fi4irm/static/js/2.b75dd592.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c491e086.js",
+    "static/js/2.b75dd592.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.3a1e1a68.chunk.js"
+  ]
+}
